@@ -8,10 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Web sitem güncelleniyor.<i class="fas fa-heart"></i></h1>
-        <div className='mb-5 ' style={{width: 60, height: 60}}>
-            <Icon className='text-info ' size={'100%'} icon={cogs}/>
-        </div> 
+        <h1>Web sitem güncelleniyor..</h1>
+        <img src="cark.gif" className='mb-5 ' style={{width: 70}}></img>
+
         <h3> İlgi ve anlayışınız için teşekkür ederim!</h3>
         <div >
           <h4>Caner Şahin</h4>
